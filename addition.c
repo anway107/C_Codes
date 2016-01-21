@@ -8,7 +8,7 @@
 int main()
 {
     //Declaration of the variables
-    int number1,number2,addition_result;
+    int number1,number2,result;
 
     //printf is used for priting on the console
     //scanf is used for taking the input from console
@@ -19,10 +19,10 @@ int main()
     scanf("%d",&number2);
 
     //Make Addition of the two numbers
-    addition_result = number1 + number2;
+    result = number1 + number2;
 
     printf("The result of addition is :- ");
-    printf("%d\n",addition_result);
+    printf("%d\n",result);
     return 0;
 }
 
