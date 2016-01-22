@@ -1,5 +1,5 @@
 /**
-    addition.c
+    multiplication.c
     Purpose: Multiplication of two integer numbers in C
     @author Anway Kulkarni
 */
