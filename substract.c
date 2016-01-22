@@ -1,3 +1,8 @@
+/**
+    addition.c
+    Purpose: Substraction of two integer numbers in C
+    @author Anway Kulkarni
+*/
 #include<stdio.h>
 
 int main()
