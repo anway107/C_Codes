@@ -1,6 +1,6 @@
 /**
     addition.c
-    Purpose: Calculation area of circle in C
+    Purpose: Check for vovels in C
     @author Anway Kulkarni
     @author Sanket Deshpande
     @author Mahesh Deshmukh

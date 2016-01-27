@@ -1,6 +1,6 @@
 /**
     addition.c
-    Purpose: Calculation area of circle in C
+    Purpose: conversions of distances in C
     @author Anway Kulkarni
     @author Sanket Deshpande
     @author Mahesh Deshmukh
