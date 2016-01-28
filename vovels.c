@@ -1,5 +1,5 @@
 /**
-    addition.c
+    vovels.c
     Purpose: Check for vovels in C
     @author Anway Kulkarni
     @author Sanket Deshpande

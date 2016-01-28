@@ -1,3 +1,10 @@
+/**
+    multiplication.c
+    Purpose: multiplication in C
+    @author Anway Kulkarni
+    @author Sanket Deshpande
+    @author Mahesh Deshmukh
+*/
 #include<stdio.h>
 
 int main()

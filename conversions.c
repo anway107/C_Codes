@@ -1,5 +1,5 @@
 /**
-    addition.c
+    conversion.c
     Purpose: conversions of distances in C
     @author Anway Kulkarni
     @author Sanket Deshpande

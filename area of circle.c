@@ -1,5 +1,5 @@
 /**
-    addition.c
+    area of circle.c
     Purpose: Calculation area of circle in C
     @author Anway Kulkarni
     @author Sanket Deshpande

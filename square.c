@@ -1,6 +1,6 @@
 /**
-    addition.c
-    Purpose:  in C
+    square.c
+    Purpose: calculating square in C
     @author Anway Kulkarni
     @author Sanket Deshpande
     @author Mahesh Deshmukh
