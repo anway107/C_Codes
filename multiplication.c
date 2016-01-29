@@ -1,6 +1,6 @@
 /**
     multiplication.c
-    Purpose: multiplication in C
+    Purpose: Multiplication of two integer numbers in C
     @author Anway Kulkarni
     @author Sanket Deshpande
     @author Mahesh Deshmukh
@@ -23,7 +23,7 @@ int main()
     //Make Multiplication of the two numbers
     result = number1 * number2;
 
-    printf("The result of substraction is :- ");
+    printf("The result of multiplication is :- ");
     printf("%d\n",result);
     return 0;
 }
