@@ -2,6 +2,8 @@
     multiplication.c
     Purpose: Multiplication of two integer numbers in C
     @author Anway Kulkarni
+    @author Sanket Deshpande
+    @author Mahesh Deshmukh
 */
 #include<stdio.h>
 
