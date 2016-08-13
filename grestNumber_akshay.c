@@ -1,4 +1,4 @@
-/**Grestest among three numbres using ternary operator**/
+/**Greatest among three numbres using ternary operator**/
 
 #include<stdio.h>
 
